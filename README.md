@@ -3,11 +3,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <!-- YOUTUBE:START -->
-- [Kubernetes Pod Affinity &amp; Anti-Affinity | Node affinity vs Pod affinity | Kubernetes Scheduling](https://www.youtube.com/watch?v=kXipD5hzwkk)
-- [Kubernetes Node Affinity &amp; Anti-Affinity Explained in Hindi | Node Selector vs. Node Affinity](https://www.youtube.com/watch?v=qJ4rUXaFWlo)
-- [Operators in Python | Types of Operators | Python Operators Explained  in Hindi | Python Tutorials](https://www.youtube.com/watch?v=_7rGpWz5k0Y)
-- [What are Literals? | Literals in Python Explained | Python tutorials for beginners in hindi](https://www.youtube.com/watch?v=0xe-riFbUbI)
-- [Write Your First Python Program | Print Function Secrets | Python Tutorial for Beginners in Hindi](https://www.youtube.com/watch?v=TG_iexk1f74)
+- [Corporate Level E-Commerce App Deployment on EKS Using Jenkins Multibranch Pipeline](https://www.youtube.com/watch?v=bREa0UjxF4Q)
+- [Corporate E-Commerce App Deployment on EKS Using Jenkins Multibranch Pipeline | 10+ Microservices-I](https://www.youtube.com/watch?v=sVqH6uf7M9c)
+- [HandsOn Lab for Deploying multiple microservices &amp; How does it works ? | Git | AWS | Docker |](https://www.youtube.com/watch?v=ecMSoVl0JDM)
+- [Day-13 |  ULTIMATE SHELLSCRIPTING WITH REALTIME  HANDS ON | #60daysofdevops #freedevopscourse#2023](https://www.youtube.com/watch?v=zAMdFnt57g8)
+- [Day-12 |  SHELLSCRIPTING WITH REALTIME HANDSON 01 | #60daysofdevops #freedevopscourse#2023](https://www.youtube.com/watch?v=5xLVbGPNOB0)
 <!-- YOUTUBE:END -->
 
 ## Available Scripts
