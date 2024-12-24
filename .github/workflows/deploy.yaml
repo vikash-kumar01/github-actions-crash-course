@@ -6,6 +6,9 @@ on:
   workflow_dispatch:
 
 
+permissions:
+  contents: write
+
 jobs:
   build_and_deploy:
     runs-on: ubuntu-latest
@@ -23,3 +26,9 @@ jobs:
 
     - name: Build Project
       run: npm run build
+
+    - name: Deploy to Github Pages
+      uses: JamesIves/github-pages-deploy-action@4.1.5
+      with:
+        branch: gh-pages
+        folder: build
