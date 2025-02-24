@@ -3,11 +3,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <!-- YOUTUBE:START -->
+- [Transform Your Resume: Real-Time Serverless DevOps Project | Hands-On Step-by-Step Guide @MrDevOps](https://www.youtube.com/watch?v=NP3WkNxqKko)
 - [Corporate Level E-Commerce App Deployment on EKS Using Jenkins Multibranch Pipeline](https://www.youtube.com/watch?v=bREa0UjxF4Q)
 - [Corporate E-Commerce App Deployment on EKS Using Jenkins Multibranch Pipeline | 10+ Microservices-I](https://www.youtube.com/watch?v=sVqH6uf7M9c)
 - [HandsOn Lab for Deploying multiple microservices &amp; How does it works ? | Git | AWS | Docker |](https://www.youtube.com/watch?v=ecMSoVl0JDM)
 - [Day-13 |  ULTIMATE SHELLSCRIPTING WITH REALTIME  HANDS ON | #60daysofdevops #freedevopscourse#2023](https://www.youtube.com/watch?v=zAMdFnt57g8)
-- [Day-12 |  SHELLSCRIPTING WITH REALTIME HANDSON 01 | #60daysofdevops #freedevopscourse#2023](https://www.youtube.com/watch?v=5xLVbGPNOB0)
 <!-- YOUTUBE:END -->
 
 ## Available Scripts
