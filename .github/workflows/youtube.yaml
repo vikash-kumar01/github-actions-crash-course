@@ -2,7 +2,7 @@ name: Latest YouTube Videos
 
 on:
   schedule:
-    # Runs every day at 10:30 IST (5 UTC)
+    # Runs every day at 5:00 UTC (10:30 IST)
     - cron: "0 5 * * *"
   workflow_dispatch:
 
@@ -12,10 +12,11 @@ permissions:
 jobs:
   update-readme-with-youtube:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v3
+
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "YOUTUBE"
-          #feed_list: https://www.youtube.com/feeds/videos.xml?channel_id=UCV4R0eN_xu57-t9VGK9KhRQ
-          feed_list: https://www.youtube.com/feeds/videos.xml?channel_id=UCV4R0eN_xu57-t9VGK9KhRQ
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCV4R0eN_xu57-t9VGK9KhRQ"
